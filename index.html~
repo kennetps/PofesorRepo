@@ -63,7 +63,7 @@ description: LICENCIATURA EN CONTADURIA PUBLICA - Andrea Mamani
                     con la mejor experiencia en el are contable <br />
                     diferentes titulos a nivel internacional</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/FemaleTeacher.jpeg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
 					  <p>INFORMACION GENERAL</p>
                 <p>Revisar en cada tab para verificar noticias de cada curso</p>
                 <p> Llenar la encuesta que se encuentra en el tab "Encuesta"</p>
